@@ -28,7 +28,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/example_line.gif" width="100%" alt="Divider">
+</p>
 
 ## 💻 Skills & Tools
 
@@ -36,7 +38,9 @@
   <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vue,nodejs,nextjs,nestjs,php,laravel,go,docker&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/example_line.gif" width="100%" alt="Divider">
+</p>
 
 ## 💌 Contact Me
 
@@ -45,7 +49,9 @@
   <a href="https://www.linkedin.com/in/htet-zaw-phyo-68a670256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/example_line.gif" width="100%" alt="Divider">
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/GfBQ7j_3fPAAAAAd/coding.gif" width="150" />
