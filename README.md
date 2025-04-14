@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cat_divider.gif" width="100%" alt="Divider">
+  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
 </p>
 
 ## 💻 Skills & Tools
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cat_divider.gif" width="100%" alt="Divider">
+  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
 </p>
 
 ## 💌 Contact Me
@@ -50,11 +50,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cat_divider.gif" width="100%" alt="Divider">
+  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.tenor.com/GfBQ7j_3fPAAAAAd/coding.gif" width="150" />
-</p>
+</p> -->
 
 <p align="center"><em>Thanks for stopping by! May your code be clean, your bugs be minimal, and your anime marathons endless! 💻🎬</em></p>
