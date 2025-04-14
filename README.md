@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/example_line.gif" width="100%" alt="Divider">
+  <img src="https://media.giphy.com/media/cat_divider.gif" width="100%" alt="Divider">
 </p>
 
 ## 💻 Skills & Tools
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/example_line.gif" width="100%" alt="Divider">
+  <img src="https://media.giphy.com/media/cat_divider.gif" width="100%" alt="Divider">
 </p>
 
 ## 💌 Contact Me
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/example_line.gif" width="100%" alt="Divider">
+  <img src="https://media.giphy.com/media/cat_divider.gif" width="100%" alt="Divider">
 </p>
 
 <p align="center">
