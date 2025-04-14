@@ -33,7 +33,7 @@
 ## 💻 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vue,nodejs,nextjs,nestjs,php,laravel,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vue,nodejs,nextjs,nestjs,php,laravel,go,docker&theme=dark" />
 </p>
 
 ---
