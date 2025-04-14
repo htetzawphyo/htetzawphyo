@@ -4,6 +4,9 @@
 </p>
 
 <h1 align="center">Hello! ~ 👋 I'm [Htet Zaw Phyo]</h1>
+<p align="center">
+  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Continuous+Learner+%F0%9F%93%9A;Tech+Enthusiast+%F0%9F%92%BB;Open+Source+Contributor+%E2%9C%8A;Problem+Solver+%F0%9F%94%A9;Anime+Lover+%F0%9F%8E%A8;Coffee+Addict+%E2%98%95;Backend+Alchemist+%F0%9F%94%A5;" alt="Typing SVG" />
@@ -28,9 +31,7 @@
 
 </div>
 
-<p align="center">
-  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
-</p>
+---
 
 ## 💻 Skills & Tools
 
@@ -38,9 +39,7 @@
   <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vue,nodejs,nextjs,nestjs,php,laravel,go,docker&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
-</p>
+---
 
 ## 💌 Contact Me
 
@@ -49,12 +48,10 @@
   <a href="https://www.linkedin.com/in/htet-zaw-phyo-68a670256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
-</p>
+---
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://media.tenor.com/GfBQ7j_3fPAAAAAd/coding.gif" width="150" />
-</p> -->
+</p>
 
 <p align="center"><em>Thanks for stopping by! May your code be clean, your bugs be minimal, and your anime marathons endless! 💻🎬</em></p>
