@@ -4,12 +4,13 @@
 </p>
 
 <h1 align="center">Hello! ~ 👋 I'm [Htet Zaw Phyo]</h1>
-<p align="center">
-  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Continuous+Learner+%F0%9F%93%9A;Tech+Enthusiast+%F0%9F%92%BB;Open+Source+Contributor+%E2%9C%8A;Problem+Solver+%F0%9F%94%A9;Anime+Lover+%F0%9F%8E%A8;Coffee+Addict+%E2%98%95;Backend+Alchemist+%F0%9F%94%A5;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="./assets/cat_divider.gif" width="100%" alt="Divider">
 </p>
 
 ## 🖤 About Me
