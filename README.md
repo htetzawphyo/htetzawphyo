@@ -1,24 +1,54 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/dance-anime3.gif" width="20%" alt="anime coder banner" />
+  <img src="./assets/dance-anime.gif" width="20%" alt="anime coder banner" />
 </p>
 
 <h1 align="center">Hello! ~ 👋 I'm [Htet Zaw Phyo]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Software+Engineer;Anime+Lover+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Open+Source+Contributor;Always+Leveling+Up+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Continuous+Learner+%F0%9F%93%9A;Tech+Enthusiast+%F0%9F%92%BB;Open+Source+Contributor+%E2%9C%8A;Problem+Solver+%F0%9F%94%A9;Anime+Lover+%F0%9F%8E%A8;Coffee+Addict+%E2%98%95;Backend+Alchemist+%F0%9F%94%A5;" alt="Typing SVG" />
+</p>
+
+## 🖤 About Me
+
+<div align="center">
+  
+  <img src="https://i.pinimg.com/originals/9a/6c/ba/9a6cba34e08b1a657ec74422952f1e50.gif" width="200" style="border-radius: 50%" />
+
+</div>
+
+<div align="center">
+
+🧑‍💻 **Name:** Htet Zaw Phyo
+💼 **Role:** Software Engineer  
+🎮 **Hobbies:** Coding ・ Anime ・ Gaming ・ Coffee  
+🎬 **Fav Anime:** One Piece ・ Haikyuu ・ Violet Evergarden ・ AOT  
+🧠 **Quote:**  
+<em>“In the code we trust. In the bugs we debug.”</em>
+
+</div>
+
+---
+
+## 💻 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,vue,nodejs,nextjs,nestjs,php,laravel,docker&theme=dark" />
 </p>
 
 ---
 
-### 🧙 About Me
+## 💌 Contact Me
 
-```ts
-const developer = {
-  name: "Htet Zaw Phyo",
-  role: "Software Engineer",
-  animeLevel: "Over 9000 💥",
-  hobbies: ["Coding", "Watching anime", "Gaming", "Building cool stuff"],
-  favoriteAnime: ["Steins;Gate", "Attack on Titan", "One Piece", "Jujutsu Kaisen"],
-  quote: "In code we trust, in bugs we fight. 💻⚔️"
-}
+<p align="center">
+  <a href="mailto:htetzawphyo.hpn@email.com"><img src="https://img.shields.io/badge/Email-005c5c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/htet-zaw-phyo-68a670256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/GfBQ7j_3fPAAAAAd/coding.gif" width="150" />
+</p>
+
+<p align="center"><em>Thanks for stopping by! May your code be clean, your bugs be minimal, and your anime marathons endless! 💻🎬</em></p>
