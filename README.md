@@ -1,13 +1,24 @@
-# Hi there 👋 I'm [Htet Zaw Phyo]  
+<!-- Banner -->
+<p align="center">
+  <img src="./assets/dance-anime.gif" width="100%" alt="anime coder banner" />
+</p>
 
-🚀 **Full-Stack Developer** | 📍 **Yangon, Myanmar**  
+<h1 align="center">Hello! ~ 👋 I'm [Htet Zaw Phyo]</h1>
 
-## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Software+Engineer;Anime+Lover+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%A8;Open+Source+Contributor;Always+Leveling+Up+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)  
+---
 
-## 🤝 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+### 🧙 About Me
+
+```ts
+const developer = {
+  name: "Htet Zaw Phyo",
+  role: "Software Engineer",
+  animeLevel: "Over 9000 💥",
+  hobbies: ["Coding", "Watching anime", "Gaming", "Building cool stuff"],
+  favoriteAnime: ["Steins;Gate", "Attack on Titan", "One Piece", "Jujutsu Kaisen"],
+  quote: "In code we trust, in bugs we fight. 💻⚔️"
+}
