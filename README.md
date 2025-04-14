@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/dance-anime.gif" width="100%" alt="anime coder banner" />
+  <img src="./assets/dance-anime.gif" width="20%" alt="anime coder banner" />
 </p>
 
 <h1 align="center">Hello! ~ 👋 I'm [Htet Zaw Phyo]</h1>
