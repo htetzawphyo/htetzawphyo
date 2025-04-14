@@ -20,7 +20,7 @@
 <div align="center">
 
 🧑‍💻 **Name:** Htet Zaw Phyo
-💼 **Role:** Software Engineer  
+💼 **Role:** Full Stack Developer  
 🎮 **Hobbies:** Coding ・ Anime ・ Gaming ・ Coffee  
 🎬 **Fav Anime:** One Piece ・ Haikyuu ・ Violet Evergarden ・ AOT  
 🧠 **Quote:**  
